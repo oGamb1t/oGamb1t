@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=373535&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=oGamb1t&section=header&textBg=false&fontColor=292929&fontSize=80&animation=twinkling&strokeWidth=1"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Michel+Madrid;I'm+31+years+old;I'm+from+Brazil;Computer+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Tektur&color=292929&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Me+chamo+Michel+Madrid;Tenho+31+anos;Sou+Brasileiro;Cientista+da+Computação;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Main skills:  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
